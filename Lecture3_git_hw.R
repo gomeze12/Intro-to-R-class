@@ -1,2 +1,0 @@
-print ("Ethan Gomez")
-
